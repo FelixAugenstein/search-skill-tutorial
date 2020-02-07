@@ -33,11 +33,15 @@ After the login you will see your IBM Cloud Dashboard. In the upper menu bar cli
 
 ![Catalog Watson Assistant](readme_images/catalog-watson-assistant.png)
 
-<br>
 <h4>2) Access your Watson Assistant Service</h4>
 Go back to your IBM Cloud Dashboard by clicking the IBM Cloud Logo on the upper left. Under services you will find the Watson Assistant Service in the corresponding region. Access your service by launching it. Afterwards click on Skills in the menu on the left and create a new Search Skill.
 
 ![Create a new Search Skill](readme_images/create-search-skill.png)
+
+<h4>3) Connect to a Watson Discovery Instance</h4>
+Connect to an existing Discovery instance or create a new one. Afterwards create a new collection. In Watson Discovery click lets get started and select Web Crawl as a data source. Provide the URL you want Watson Discovery to crawl, select a frequency - for instance once a day and the language of your website. 
+
+![Web Crawl](readme_images/web-crawl.png)
 
 ## Deploy the Assistant with Search Skill
 
