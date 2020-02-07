@@ -26,3 +26,23 @@ The following diagram illustrates how user input is processed when both a dialog
 
 ![Catalog Watson Assistant](readme_images/search-skill-diagram.png)
 
+## Configuring the Watson Assistant & Search Skill on the IBM Cloud
+
+<h4>1) Create a Watson Assistant Service</h4>
+After the login you will see your IBM Cloud Dashboard. In the upper menu bar click Catalog. In the Catalog section, click on the AI category, then select Watson Assistant. On the next page select the Lite Plan - or the Plus Trial, Standard or Plus Plan for further deployment options - and you can also choose a region, where you would like to deploy your service as well as a service name. Click "Create".
+
+![Catalog Watson Assistant](readme_images/catalog-watson-assistant.png)
+
+<br>
+<h4>2) Access your Watson Assistant Service</h4>
+Go back to your IBM Cloud Dashboard by clicking the IBM Cloud Logo on the upper left. Under services you will find the Watson Assistant Service in the corresponding region. Access your service by launching it. Afterwards click on Skills in the menu on the left and create a new Search Skill.
+
+![Create a new Search Skill](readme_images/create-search-skill.png)
+
+## Deploy the Assistant with Search Skill
+
+## If you have any questions just contact me
+Felix Augenstein<br>
+Digital Tech Ecosystem & Developer Representative @IBM<br>
+Twitter: [@F_Augenstein](https://twitter.com/F_Augenstein)<br>
+LinkedIn: [linkedin.com/in/felixaugenstein](https://www.linkedin.com/in/felixaugenstein/)
