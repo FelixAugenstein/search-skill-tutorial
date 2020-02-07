@@ -45,6 +45,14 @@ Connect to an existing Discovery instance or create a new one. Afterwards create
 
 ## Deploy the Assistant with Search Skill
 
+To deploy your assistant click on Assistants, then click on create assistant and give your integration a name. Make sure the "Enable Preview Link" checkbox is checked. Then click on add a search skill to select your previously configured search skill. Afterwards go to the Preview Link and visit the provided URL. Your Assistant will provide you with search results.
+
+![Create a new Skill](readme_images/deploy-assistant.png)
+
+The Preview Link Chat App will look like this:<br>
+
+<img src="readme_images/preview-link.png" width=250 height="auto">
+
 ## If you have any questions just contact me
 Felix Augenstein<br>
 Digital Tech Ecosystem & Developer Representative @IBM<br>
