@@ -48,8 +48,6 @@ Configure the title, body, and URL fields to define how the search results will 
 
 ![Search response](readme_images/configure-search-response.png)
 
-![Web Crawl](readme_images/web-crawl.png)
-
 ## Deploy the Assistant with Search Skill
 
 To deploy your assistant click on Assistants, then click on create assistant and give your integration a name. Make sure the "Enable Preview Link" checkbox is checked. Then click on add a search skill to select your previously configured search skill. Afterwards go to the Preview Link and visit the provided URL. Your Assistant will provide you with search results.
