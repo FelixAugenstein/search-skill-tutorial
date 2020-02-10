@@ -12,7 +12,7 @@
 ## Configuring the Watson Assistant and Discovery service on the IBM Cloud
 
 <h4>1) Create a Watson Assistant Service</h4>
-After the login you will see your IBM Cloud Dashboard. In the upper menu bar click Catalog. In the Catalog section, click on the AI category, then select Watson Assistant. On the next page select the Lite Plan - or the Plus Trial, Standard or Plus Plan for further deployment options - and you can also choose a region, where you would like to deploy your service as well as a service name. Click "Create".
+After the login you will see your IBM Cloud Dashboard. In the upper menu bar click Catalog. In the Catalog section, click on the AI category, then select Watson Assistant. For the search skill you will need a Plus Trial, you can also choose a region, where you would like to deploy your service as well as a service name. Click "Create".
 
 ![Catalog Watson Assistant](readme_images/catalog-watson-assistant.png)
 
