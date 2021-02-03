@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none;">:rocket: Search Skill Tutorial</h1>
-<h3 align="center">In this hands-on tutorial you will create a new IBM Watson Assistant and Discovery Service on the IBM Cloud and deploy your solution</h3>
+<h3 align="center">In this hands-on tutorial you will create a new IBM Watson Assistant and Discovery Service on the IBM Cloud, to crawl for instance a website or database and return search results via the assistant. Afterwards you will deploy your solution.</h3>
 
 
 ## Prerequisites
