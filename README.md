@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none;">:rocket: IBM Digital Tech Tutorial: Watson Assistant Search Skill</h1>
+<h1 align="center" style="border-bottom: none;">:rocket: Search Skill Tutorial</h1>
 <h3 align="center">In this hands-on tutorial you will create a new IBM Watson Assistant and Discovery Service on the IBM Cloud and deploy your solution</h3>
 
 
