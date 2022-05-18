@@ -61,9 +61,3 @@ To deploy your assistant click on Assistants, then click on create assistant and
 The Preview Link Chat App will look like this:<br>
 
 <img src="readme_images/preview-link.png" width=250 height="auto">
-
-## If you have any questions just contact me
-Felix Augenstein<br>
-Digital Tech Ecosystem & Developer Representative @IBM<br>
-Twitter: [@F_Augenstein](https://twitter.com/F_Augenstein)<br>
-LinkedIn: [linkedin.com/in/felixaugenstein](https://www.linkedin.com/in/felixaugenstein/)
