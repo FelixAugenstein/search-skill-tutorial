@@ -14,6 +14,7 @@
 <h4>1) Create a Watson Assistant Service</h4>
 After the login you will see your IBM Cloud Dashboard. In the upper menu bar click Catalog. In the Catalog section, click on the AI/Machine Learning category, then select Watson Assistant. For the search skill you will need a Plus Trial, you can also choose a region, where you would like to deploy your service as well as a service name. Click "Create".
 
+
 ![Catalog Watson Assistant](readme_images/catalog_Watson_Assistant.png)
 
 Repeat this process to create a Watson Discovery Lite instance, which you will also find in the catalog under AI/Machine Learning.
@@ -24,6 +25,7 @@ You can add a search skill to your assistant to prevent the assistant from havin
 
 The following diagram illustrates how user input is processed when both a dialog skill and a search skill are added to an assistant.
 
+
 ![Catalog Watson Assistant](readme_images/search-skill-diagram.png)
 
 ## Configuring the Watson Assistant & Search Skill on the IBM Cloud
@@ -31,15 +33,18 @@ The following diagram illustrates how user input is processed when both a dialog
 <h4>1) Create a Watson Assistant Service</h4>
 After the login you will see your IBM Cloud Dashboard. In the upper menu bar click Catalog. In the Catalog section, click on the AI/Machine Learning category, then select Watson Assistant. On the next page select the Lite Plan - or the Plus Trial, Standard or Plus Plan for further deployment options - and you can also choose a region, where you would like to deploy your service as well as a service name. Click "Create".
 
+
 ![Catalog Watson Assistant](readme_images/catalog_Watson_Assistant.png)
 
 <h4>3) Connect to a Watson Discovery Instance</h4>
 Connect to an existing Discovery instance or create a new one. Afterwards create a new collection. In Watson Discovery click "connect a data source"  and select Web Crawl as a data source. Provide the URL you want Watson Discovery to crawl, select a frequency - for instance once a day and the language of your website. 
 
+
 ![Web Crawl](readme_images/web-crawl.png)
 
 <h4>4) Configure the search response</h4>
 Configure the title, body, and URL fields to define how the search results will be displayed for the end user. 
+
 
 ![Search response](readme_images/configure-search-response.png)
 
@@ -55,6 +60,7 @@ Go back to your IBM Cloud Dashboard by clicking the IBM Cloud Logo on the upper 
 ## Deploy the Assistant with Search Skill
 
 To deploy your assistant click on Assistants, then click on create assistant and give your integration a name. Make sure the "Enable Preview Link" checkbox is checked. Then click on add a search skill to select your previously configured search skill. Afterwards go to the Preview Link and visit the provided URL. Your Assistant will provide you with search results.
+
 
 ![Create a new Skill](readme_images/deploy-assistant.png)
 
